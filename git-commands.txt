@@ -1,4 +1,4 @@
-#working area
+#working area ashok sana
 git add .
 
 #staging area
@@ -9,4 +9,6 @@ git commit -m " "
 
 git push origin main
 #remote
-ashoksana
+git fisrt class
+
+git merge
