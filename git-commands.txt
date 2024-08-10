@@ -9,7 +9,6 @@ git commit -m " "
 
 git push origin main
 #remote
-<<<<<<< HEAD
 git fisrt class
 
 git merge
