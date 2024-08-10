@@ -8,3 +8,5 @@ git commit -m " "
 #local remote area
 
 git push origin main
+#remote
+git remote add <url>
