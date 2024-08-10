@@ -10,3 +10,6 @@ git commit -m " "
 git push origin main
 #remote
 git remote add <url>
+#clone
+git clone <url>
+#from sravya
