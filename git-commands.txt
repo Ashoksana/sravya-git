@@ -1,0 +1,10 @@
+#working area
+git add .
+
+#staging area
+
+git commit -m " "
+ 
+#local remote area
+
+git push origin main
