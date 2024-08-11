@@ -1,14 +1,3 @@
-#working area
-git add .
-
-#staging area
-
-git commit -m " "
- 
-#local remote area
-
-git push origin main
-#remote
-
-git merge
-sravya -git classs
+hi this ashok
+from India
+how are you??
