@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #working area
 git add .
