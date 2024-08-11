@@ -1,3 +1,17 @@
-hi this ashok
-from India
-how are you??
+
+#working area
+git add .
+
+#staging area
+
+git commit -m " "
+ 
+#local remote area
+
+git push origin main
+#remote
+git remote add <url>
+
+egerhfdb
+dfdfgdf
+dfdfgf
