@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     stages {
-        stage('Create a file') {
+        stage('Docker install') {
             steps {
-                sh 'cd ~/ && touch sateesh.txt'
+                sh 'sudo apt install docker.io -y'
             }
         }
         stage('Hello') {
