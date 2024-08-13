@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     stages {
-        stage('Clone Repository') {
+        stage('Create a file') {
             steps {
-                sh 'cd ~ && git clone -b main https://github.com/Ashoksana/sravya-git.git'
+                sh 'cd ~/ && touch sateesh.txt'
             }
         }
         stage('Hello') {
